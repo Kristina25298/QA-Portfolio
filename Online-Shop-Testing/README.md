@@ -1,27 +1,32 @@
 # Online Shop Testing
 
-## Project Description
+## О проекте
 
-Testing of an e-commerce web application.
+Учебный проект по тестированию веб-приложения интернет-магазина.
 
-### Scope
+В рамках проекта проведено тестирование следующих модулей:
 
-* User Registration
-* User Authorization
-* Product Search
-* Shopping Cart
-* API Testing
+* Регистрация пользователей
+* Авторизация пользователей
+* Корзина товаров
+* API
 
-### Testing Types
+## Подготовленная документация
 
-* Functional Testing
-* Smoke Testing
-* Regression Testing
-* API Testing
+* Checklists
+* Test Cases
+* Bug Reports
+* API Testing Documentation
 
-### Tools
+## Используемые инструменты
 
 * Jira
 * Postman
 * Chrome DevTools
-* Git
+* GitHub
+
+## Результаты
+
+* Разработаны чек-листы и тест-кейсы
+* Оформлены баг-репорты
+* Выполнена подготовка тестовой документации для API
